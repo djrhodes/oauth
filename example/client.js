@@ -42,7 +42,7 @@ var rsaKey = {
 
 var client = {
 	"client_id": "oauth-client-1",
-	"client_secret": "oauth-client-secret-1",
+	"client_secret": "oauth-client-secret-12",
 	"redirect_uris": ["http://localhost:9000/callback"],
 	"scope": "foo bar"
 };
